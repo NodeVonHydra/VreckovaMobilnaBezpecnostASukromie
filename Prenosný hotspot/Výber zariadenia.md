@@ -1,0 +1,3 @@
+Ako si môžeme správne tipnúť, zmena IMEI nie je niečo čo umožňuje hociaký router. Z hľadiska technickej realizácie, zmena IMEI obvykle vyžaduje prístup k špeciálnemu softvéru alebo konfiguračným nastaveniam na zariadení. 
+
+Medzi takéto zariadenia patrí napr. mobilný telefón Nokia 8110 AKA “Bananaphone” s KaiOS, Nitro Wall NW750 a Mudi 4G LTE (GL-E750) s modulom blue-merle. Ak sa rozhodnete zaobstarať si jedno zo spomenutých zariadení, nezabúdajte pritom na anonymný nákup, ktorý vám pomôže minimalizovať vašu digitálnu stopu – samozrejmosťou je nákup za cash/krypto, s doručením na meno a adresu proxy merchanta, prípadne na adresu právnickej osoby.
