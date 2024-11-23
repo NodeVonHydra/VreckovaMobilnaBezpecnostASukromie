@@ -22,7 +22,7 @@ Dosiahnuť anonymitu takýmto štýlom je teda extrémne náročné. Jedným z r
 
 Mať doma nejakú SIMku na také a onaké použitie nie je na škodu. Osobne však nie som zástancom teórie tisícok SIMiek a telefónov a práve preto si odporúčam pre nastavenie svojho primárneho zariadenia zvoliť postup, ktorý sme si zvolili v kapitolách “Život bez telefónneho čísla” a “VoIP a iné alternatívy”.
 
-Ak by vás zaujímali väčšie detaily ohľadom anonymného nákupu telefónu, neváhajte navštíviť kapitolu "Zásady anonymného nákupu telefónu" v časti "Súkromný telefón a súkromný operačný sustém".
+Ak by vás zaujímali väčšie detaily ohľadom anonymného nákupu telefónu, neváhajte navštíviť kapitolu "Zásady anonymného nákupu telefónu" v časti "Súkromný telefón a súkromný operačný systém".
 
 # Iné a doplnkové hacky
 
