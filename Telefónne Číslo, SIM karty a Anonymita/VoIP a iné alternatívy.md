@@ -28,7 +28,7 @@ Pre predstavu, nejak takto môže vyzerať registrácia a nastavenie účtov na 
 
 XXX SCREENSHOT ZO ZOIPERU
 
-#Presmerovanie čísla na Skype
+# Presmerovanie čísla na Skype
 
 Ak sa nám nepáči presmerovanie hovorov na VoIP klienta a zdá sa nám príliš komplikované, môžeme ho nechať tak. Čo však urobíme keď sme teda ostali iba s forwardovaním SMS?
 
