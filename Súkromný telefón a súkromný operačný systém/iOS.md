@@ -43,13 +43,18 @@ Ako hovorí zenové príslovie:
 
 `“Na svete sú dva druhy ľudí — tí čo zálohujú a tí čo zatiaľ neprišli o dáta…”` 
 
-Keď je vaše zariadenie nakonfigurované presne podľa vašich požiadaviek, môžete si vytvoriť full backup do vášho macbooku. To vám umožní ľahko obnoviť vašu konfiguráciu do nového zariadenia. Vyžaduje si to otvorenie aplikácie iTunes na macbooku, pripojenie mobilného zariadenia cez USB a vykonanie nasledujúcich krokov:
+Keď je vaše zariadenie nakonfigurované presne podľa vašich požiadaviek, môžete si vytvoriť full backup do vášho macbooku. Je to setup ktorý odporúčam viac než napr. zálohovanie cez iCloud. 
 
-- Kliknite na malú ikonu telefónu v ľavom hornom rohu.
-- Kliknite na možnosť “Summary" v ľavom menu.
-- V časti “Backups” kliknite na položku “Back Up Now".
+Pokiaľ však chcete používať iCloud (napr. z dôvodu nedostatku miesta na vašom macbooku), nezabudnite si zapnúť funkciu "advanced data protection", ktorá váš iCloud zašifruje end-to-end. Určite nevynechajte ani vyselektovanie niektorých špecifických aplikácií, ktoré nechcete backupovať. Management rizika je na každom z nás, avšak ja osobne odporúčam nezálohovať predovšetkým messengery, finančné aplikácie a mobilné peňaženky.
 
-Tým sa vytvorí klon operačného systému a konfigurácie v iTunes na vašom počítači. Ak nevlastníte macbook, môžete použiť iTunes nainštalovaný do Windows VM. Ak chcete extrémne súkromie, nastavte si Windows VM na hostiteľskom počítači Linux, zakážte do WM všetok prístup na internet,, nainštalujte si iTunes v rámci VM a zálohujte si mobilné zariadenie tam. Bez ohľadu na to, akým spôsobom to urobíte, mať zálohu mobilného zariadenia bude obrovskou výhodou, ak budete niekedy potrebovať replikovať svoju konfiguráciu na druhé zariadenie. 
+Budeme však preferovať lokálne zálohovanie na náš macbook. Je to veľmi jednoduché a postup je nasledujúci:
+
+- pred celým procesom najskôr odstráňte z telefónu aplikácie ktoré nechcete zálohovať
+- pripojte si váš iPhone cez USB k macbooku
+- nájdite si ho cez Finder
+- v sekcii "General" zakliknite na možnosť "Back up all the data on your iPhone to this Mac" a zakliknite aj možnosť "Encrypt local backup"
+  - budete si musieť zvoliť heslo pre prístup k vášmu backupu (zvoľte si preto dostatočne bezpečné heslo!)
+- kliknite na "Back Up Now" a počkajte, kým sa vám telefón zálohuje
 
 # Siri a Apple Intelligence
 
